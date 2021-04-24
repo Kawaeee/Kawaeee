@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Kaw 🤔👋
+
+[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://medium.com/@kawaekc)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/kasidech-kaw/)
+[![Kawae's Portfolio Status](https://img.shields.io/website-up-down-green-red/https/kawaeee.github.io.svg)](https://kawaeee.github.io/#/)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kawaeee.visitor-badge)
+
+![Kawaeee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kawaeee&theme=dark)
+![Kawaeee's Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawaeee&theme=dark&layout=compact)
 
 <!--
 **Kawaeee/Kawaeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
