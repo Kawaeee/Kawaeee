@@ -5,8 +5,7 @@
 [![Kawae's Portfolio Status](https://img.shields.io/website-up-down-green-red/https/kawaeee.github.io.svg)](https://kawaeee.github.io/#/)
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kawaeee.visitor-badge)
 
-![Kawaeee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kawaeee&theme=dark)
-![Kawaeee's Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawaeee&theme=dark&layout=compact)
+[![@Kawaeee's Holopin board](https://holopin.io/api/user/board?user=kaw)](https://holopin.io/@kaw)
 
 <!--
 **Kawaeee/Kawaeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
