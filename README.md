@@ -1,9 +1,8 @@
 ### Hi there, I'm Kaw 🤔👋
 
-[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://medium.com/@kawaekc)
+[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://kawae.medium.com/)
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/kasidech-kaw/)
 [![Kawae's Portfolio Status](https://img.shields.io/website-up-down-green-red/https/kawaeee.github.io.svg)](https://kawaeee.github.io/#/)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kawaeee.visitor-badge)
 
 [![@Kawaeee's Holopin board](https://holopin.io/api/user/board?user=kaw)](https://holopin.io/@kaw)
 
